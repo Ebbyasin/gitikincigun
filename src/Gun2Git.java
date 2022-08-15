@@ -37,9 +37,11 @@ public class Gun2Git {
          NOT: git log --online--> Commitlerimdeki yani versiyonlarimdaki durumu gosterir.
          Not:Github ogrendim.
          6-)git pull -->Remote (yani uzak repo) dosyalarimizi guncellemek icin kullanilir.
+
          */
 
         System.out.println("github ı da ogrendim");
+        System.out.println("branch deneme 1");
 
 
 
