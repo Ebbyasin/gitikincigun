@@ -43,6 +43,7 @@ public class Gun2Git {
         System.out.println("github ı da ogrendim");
         System.out.println("branch deneme 1");
         System.out.println("master deneme 1");
+        System.out.println("Branch 2.deneme");
 
 
 
