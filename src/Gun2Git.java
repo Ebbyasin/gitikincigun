@@ -1,3 +1,5 @@
+package gitikincigun.src;
+
 public class Gun2Git {
 
     public static void main(String[] args) {
